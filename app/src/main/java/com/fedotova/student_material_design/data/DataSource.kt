@@ -1,0 +1,59 @@
+package com.fedotova.student_material_design.data
+
+import com.fedotova.student_material_design.R
+
+
+class DataSource {
+    val students = listOf(
+        Student(
+            R.drawable.student1,
+            R.string.student1, 25,
+            R.string.student1_desc
+        ),
+        Student(
+            R.drawable.student2,
+            R.string.student2, 27,
+            R.string.student2_desc
+        ),
+        Student(
+            R.drawable.student3,
+            R.string.student3, 16,
+            R.string.student3_desc
+        ),
+        Student(
+            R.drawable.student4,
+            R.string.student4, 27,
+            R.string.student4_desc
+        ),
+        Student(
+            R.drawable.student5,
+            R.string.student5, 21,
+            R.string.student5_desc
+        ),
+        Student(
+            R.drawable.student6,
+            R.string.student6, 23,
+            R.string.student6_desc
+        ),
+        Student(
+            R.drawable.student7,
+            R.string.student7, 24,
+            R.string.student7_desc
+        ),
+        Student(
+            R.drawable.student8,
+            R.string.student8, 22,
+            R.string.student8_desc
+        ),
+        Student(
+            R.drawable.student9,
+            R.string.student9, 18,
+            R.string.student9_desc
+        ),
+        Student(
+            R.drawable.student10,
+            R.string.student10, 18,
+            R.string.student10_desc
+        )
+    )
+}

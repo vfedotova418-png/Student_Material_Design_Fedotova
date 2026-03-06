@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Student_Material_Design</string>
+    <!-- Student names -->
+    <string name="student1">Daemon Roy</string>
+    <string name="student2">Simon Marvin</string>
+    <string name="student3">Camilla Bell</string>
+    <string name="student4">Edgar Carson</string>
+    <string name="student5">Michael Clarke</string>
+    <string name="student6">Eve Carol</string>
+    <string name="student7">Adam Carol</string>
+    <string name="student8">Silas Morningstar</string>
+    <string name="student9">Mark Heathcliff</string>
+    <string name="student10">Helel Polypheus</string>
+    <!-- Student descriptions -->
+    <string name="student1_desc">A vocalist in the band "Cross Nightmares". Tends to smoke in the
+    back alley and often skip classes for practice.</string>
+    <string name="student2_desc">A very negative person with a tendency to be self-destructive.
+    Rarely avoids class but can be pretty unstable.</string>
+    <string name="student3_desc">A young, promising woman. Intelligent and resourceful. A social
+    butterfly and a good influence on others.</string>
+    <string name="student4_desc">An influential young man, popular in the modeling industry. Has a
+    lot of wealth and influence over others.</string>
+    <string name="student5_desc">An aggressive young man with a tendency to lash out and cause
+    trouble. Becomes much calmer when together with his friend.</string>
+    <string name="student6_desc">A curious, intelligent young woman with a thirst for knowledge.
+    </string>
+    <string name="student7_desc">A calm and collected young man that tends to stick to Ms. Carol\'s
+    side.</string>
+    <string name="student8_desc">An intelligent and promising young man. Doesn\'t show as much
+    interest in knowledge as his siblings, but rarely causes trouble. Tends to keep close to Mr.
+    Morningstar.</string>
+    <string name="student9_desc">A socially anxious but otherwise polite and kind young man. Always
+    has Mr. Gabriel visiting and hovering over his shoulder. Keep an eye on them both.</string>
+    <string name="student10_desc">An aspiring writer and storyteller. Rarely has trouble in class
+    but gets easily overwhelmed and overly nervous.</string>
+    <!-- Age format -->
+    <string name="years_old">%d лет</string>
 </resources>
