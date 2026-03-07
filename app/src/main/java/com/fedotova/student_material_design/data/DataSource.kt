@@ -3,8 +3,7 @@ package com.fedotova.student_material_design.data
 import com.fedotova.student_material_design.R
 
 
-class DataSource {
-    val students = listOf(
+val students = listOf(
         Student(
             R.drawable.student1,
             R.string.student1, 25,
@@ -56,4 +55,3 @@ class DataSource {
             R.string.student10_desc
         )
     )
-}

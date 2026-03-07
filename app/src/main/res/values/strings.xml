@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Student List</string>
+    <string name="expand_button_content_description">Развернуть или свернуть</string>
+    <string name="about">О студенте</string>
     <!-- Student names -->
     <string name="student1">Daemon Roy</string>
     <string name="student2">Simon Marvin</string>
